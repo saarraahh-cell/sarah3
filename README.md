@@ -71,8 +71,4 @@ Mobile Compatibility: Extend the application to be compatible with mobile platfo
 
 Dependencies
 OpenWeatherMap API: The app uses the OpenWeatherMap API to fetch weather data. Ensure you have a valid API key set in the WeatherAPI class.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
-For any questions or issues, please contact [Your Name] at [Your Email Address].
